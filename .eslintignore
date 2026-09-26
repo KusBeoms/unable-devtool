@@ -1,0 +1,7 @@
+node_modules
+*.html
+**/libs/*.js
+npm
+docs
+output
+*.min.js
